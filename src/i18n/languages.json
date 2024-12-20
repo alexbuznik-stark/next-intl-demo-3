@@ -1,0 +1,146 @@
+[
+  {
+    "code": "hr",
+    "isDefault": false,
+    "name": "Croatian",
+    "nativeName": "Hrvatski jezik"
+  },
+  {
+    "code": "cs",
+    "isDefault": false,
+    "name": "Czech",
+    "nativeName": "Čeština"
+  },
+  {
+    "code": "da",
+    "isDefault": false,
+    "name": "Danish",
+    "nativeName": "Dansk"
+  },
+  {
+    "code": "nl",
+    "isDefault": false,
+    "name": "Dutch",
+    "nativeName": "Nederlands"
+  },
+  {
+    "code": "en-us",
+    "isDefault": true,
+    "name": "English",
+    "nativeName": "English (United States)"
+  },
+  {
+    "code": "et",
+    "isDefault": false,
+    "name": "Estonian",
+    "nativeName": "Eesti"
+  },
+  {
+    "code": "fi",
+    "isDefault": false,
+    "name": "Finnish",
+    "nativeName": "Suomen kieli"
+  },
+  {
+    "code": "fr",
+    "isDefault": false,
+    "name": "French",
+    "nativeName": "Français"
+  },
+  {
+    "code": "de",
+    "isDefault": false,
+    "name": "German",
+    "nativeName": "Deutsch"
+  },
+  {
+    "code": "el",
+    "isDefault": false,
+    "name": "Greek",
+    "nativeName": "Ελληνικά"
+  },
+  {
+    "code": "hu",
+    "isDefault": false,
+    "name": "Hungarian",
+    "nativeName": "Magyar"
+  },
+  {
+    "code": "it",
+    "isDefault": false,
+    "name": "Italian",
+    "nativeName": "Italiano"
+  },
+  {
+    "code": "lv",
+    "isDefault": false,
+    "name": "Latvian",
+    "nativeName": "Latviešu valoda"
+  },
+  {
+    "code": "no",
+    "isDefault": false,
+    "name": "Norwegian",
+    "nativeName": "Norsk"
+  },
+  {
+    "code": "pl",
+    "isDefault": false,
+    "name": "Polish",
+    "nativeName": "Język polski"
+  },
+  {
+    "code": "pt",
+    "isDefault": false,
+    "name": "Portuguese",
+    "nativeName": "Português"
+  },
+  {
+    "code": "ro",
+    "isDefault": false,
+    "name": "Romanian",
+    "nativeName": "Română"
+  },
+  {
+    "code": "ru",
+    "isDefault": false,
+    "name": "Russian",
+    "nativeName": "русский"
+  },
+  {
+    "code": "sk",
+    "isDefault": false,
+    "name": "Slovak",
+    "nativeName": "Slovenčina"
+  },
+  {
+    "code": "sl",
+    "isDefault": false,
+    "name": "Slovenian",
+    "nativeName": "Slovenščina"
+  },
+  {
+    "code": "es",
+    "isDefault": false,
+    "name": "Spanish",
+    "nativeName": "Español"
+  },
+  {
+    "code": "sv",
+    "isDefault": false,
+    "name": "Swedish",
+    "nativeName": "Svenska"
+  },
+  {
+    "code": "tr",
+    "isDefault": false,
+    "name": "Turkish",
+    "nativeName": "Türkçe"
+  },
+  {
+    "code": "uk",
+    "isDefault": false,
+    "name": "Ukrainian",
+    "nativeName": "Українська"
+  }
+]
